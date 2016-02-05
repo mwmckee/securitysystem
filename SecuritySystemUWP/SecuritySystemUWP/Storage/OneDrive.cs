@@ -1,17 +1,11 @@
 ﻿using System;
-using System.IO;
 using System.Collections.Generic;
-using System.Text;
-using System.Threading;
 using System.Threading.Tasks;
 using System.Diagnostics;
 using Microsoft.Maker.Storage.OneDrive;
 using Windows.Web.Http;
-using Windows.Web.Http.Filters;
-using Windows.Web.Http.Headers;
 using Windows.Storage;
 using Windows.Storage.Search;
-using Windows.UI.Xaml;
 
 namespace SecuritySystemUWP
 {
