@@ -33,7 +33,7 @@ namespace SecuritySystemUWP
 
         public void Dispose()
         {
-            oneDriveConnector.LogoutAsync();
+            Logout();
         }
 
         public DateTime LastUploadTime
